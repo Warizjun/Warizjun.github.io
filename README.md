@@ -1,3 +1,3 @@
 # Warizjun.github.io
  
- Hello world Warizjun!!
+ Hello world WariZ!!
